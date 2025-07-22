@@ -87,15 +87,11 @@ All screenshots are available in the `/screenshots/` folder.
 
 ```
 azure-cloud-honeypot-tpot/
-├── README.md
-├── architecture-diagram.png
-├── INSTALLATION.md
-└── screenshots/
-    ├── kibana_dashboard.png
-    ├── cowrie_activity.png
-    ├── port_activity.png
-    ├── source_ips_map.png
-    └── log_volume_stats.png
+├── screenshots/                  # Screenshots of dashboards and attack data
+│
+├── INSTALLATION.md              # Step-by-step guide to set up the honeypot on Azure
+├── README.md                    # Project overview, goals, and explanation
+├── architecture-diagram.png     # Architecture diagram of the cloud honeypot setup
 ```
 
 ---
